@@ -1,0 +1,14 @@
+*{
+    background-color:darkcyan;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+    margin: 40px;
+}
+input{
+    margin-bottom: 10px;
+}
+
